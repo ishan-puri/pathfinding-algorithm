@@ -1,6 +1,7 @@
 # pathfinding-algorithm
 // A* Pathfinding Algorithm
-Visualize the A Pathfinding Algorithm* with Pygame. Set start/end points, add obstacles, and see the shortest path in action.
+
+Visualize the A* Pathfinding Algorithm with Pygame. Set start/end points, add obstacles, and see the shortest path in action.
 
 Installation
 
